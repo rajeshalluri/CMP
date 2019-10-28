@@ -16,4 +16,4 @@ Feature: Acceptance testing to validate Search cars page is working fine
     And click on Find_My_Next_Car button
     Then I should see list of searched cars from "Audi"
     And the page title should be "Used Audi A1 Under 20000 for Sale ACT | carsguide"
-    And the page version should be "2.0"
+    And the page version should be "3.0"
